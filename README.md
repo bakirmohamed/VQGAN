@@ -51,7 +51,7 @@ This phase enables the model to represent images with discrete, learnable latent
 
 
 
-## Second Training Part: Transformer on Latent Codes
+## Second Training Part: Transformer on Latent Codes (not implemented yet)
 
 Once the autoencoder and codebook are trained, the second stage trains a transformer to model the distribution of the quantized latent codes:
 
